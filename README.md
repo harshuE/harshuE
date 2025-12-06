@@ -11,7 +11,7 @@
   <a href="mailto:harishalineeelangovan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/harishalinee-elangovan-a45677215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="YOUR_LINKEDIN_URL_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -19,9 +19,9 @@
 <br/>
 
 ### 👩‍💻 **About Me**
-[cite_start]I am a final-year **Data Science Undergraduate** at SLIIT [cite: 34, 35] [cite_start]and a **Data Analytics & AI Development Intern** at Agrithmics[cite: 11]. [cite_start]I specialize in bridging the gap between raw data and strategic decision-making using Machine Learning, Cloud Computing, and Data Visualization[cite: 12, 13].
+I am a final-year **Data Science Undergraduate** at SLIIT and a **Data Analytics & AI Development Intern** at Agrithmics. I specialize in bridging the gap between raw data and strategic decision-making using Machine Learning, Cloud Computing, and Data Visualization.
 
-* [cite_start]🔭 **Currently working on:** Automating reporting workflows and AI model optimization at Agrithmics[cite: 12, 13].
+* 🔭 **Currently working on:** Automating reporting workflows and AI model optimization at Agrithmics.
 * 🌱 **Learning:** Advanced MLOps and Generative AI Agents.
 * 👯 **Looking to collaborate on:** End-to-End Data Engineering pipelines and Deep Learning research.
 
@@ -42,10 +42,11 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 Tourism AI (Multi-Agent System)** | [cite_start]Engineered a multi-agent AI system using **Gemini API & LangGraph** to automate personalized travel itineraries with real-time logistics optimization[cite: 102, 103]. | `LangGraph` `Gemini API` `FastAPI` `React` |
-| **🚕 Ride-Hailing AI Pipeline** | [cite_start]Built a full ML pipeline to mine booking data, predicting surge windows and forecasting monthly spend[cite: 94]. | `Python` `Streamlit` `Scikit-Learn` |
-| **🏨 Hotel Booking DWBI** | [cite_start]Designed a Star Schema Data Warehouse integrating multiple sources for OLAP queries and revenue optimization[cite: 96, 97]. | `SSIS` `SQL` `Power BI` `Data Warehousing` |
-| **🎨 StyleGAN Implementation** | [cite_start]Analyzed algorithmic gaps in StyleGAN research and engineered a custom Python implementation for deep learning image generation[cite: 100, 101]. | `Deep Learning` `Python` `Computer Vision` |
+| **🤖 Tourism AI (Multi-Agent System)** | Engineered a multi-agent AI system using **Gemini API & LangGraph** to automate personalized travel itineraries with real-time logistics optimization. | `LangGraph` `Gemini API` `FastAPI` `React` |
+| **📊 Customer Churn Prediction** | Developed a predictive model using ML algorithms to identify customers at risk of churn, utilizing feature engineering for proactive retention strategies. | `Python` `Scikit-Learn` `Pandas` `ML` |
+| **🚕 Ride-Hailing AI Pipeline** | Built a full ML pipeline to mine booking data, predicting surge windows and forecasting monthly spend. | `Python` `Streamlit` `Scikit-Learn` |
+| **🏨 Hotel Booking DWBI** | Designed a Star Schema Data Warehouse integrating multiple sources for OLAP queries and revenue optimization. | `SSIS` `SQL` `Power BI` `Data Warehousing` |
+| **🎨 StyleGAN Implementation** | Analyzed algorithmic gaps in StyleGAN research and engineered a custom Python implementation for deep learning image generation. | `Deep Learning` `Python` `Computer Vision` |
 
 ---
 
