@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" />
+  <h1 align="center">Hi, I'm Harishalinee Elangovan!</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Data+Science+Undergraduate;AI+%26+Data+Analytics+Intern;Cloud+Analytics+Enthusiast+(AWS%2FAzure);Machine+Learning+Engineer" alt="Typing SVG" />
+  </a>
+</div>
 
-<!--
-**harshuE/harshuE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="mailto:harishalineeelangovan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/harishalinee-elangovan-a45677215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 **About Me**
+[cite_start]I am a final-year **Data Science Undergraduate** at SLIIT [cite: 34, 35] [cite_start]and a **Data Analytics & AI Development Intern** at Agrithmics[cite: 11]. [cite_start]I specialize in bridging the gap between raw data and strategic decision-making using Machine Learning, Cloud Computing, and Data Visualization[cite: 12, 13].
+
+* [cite_start]🔭 **Currently working on:** Automating reporting workflows and AI model optimization at Agrithmics[cite: 12, 13].
+* 🌱 **Learning:** Advanced MLOps and Generative AI Agents.
+* 👯 **Looking to collaborate on:** End-to-End Data Engineering pipelines and Deep Learning research.
+
+---
+
+### 🚀 **Technical Arsenal**
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google-gemini&logoColor=white) |
+| **Cloud & Data** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-4A154B?style=flat&logo=snowflake&logoColor=white) |
+| **Web & Viz** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) |
+
+---
+
+### 🏆 **Featured Projects**
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Tourism AI (Multi-Agent System)** | [cite_start]Engineered a multi-agent AI system using **Gemini API & LangGraph** to automate personalized travel itineraries with real-time logistics optimization[cite: 102, 103]. | `LangGraph` `Gemini API` `FastAPI` `React` |
+| **🚕 Ride-Hailing AI Pipeline** | [cite_start]Built a full ML pipeline to mine booking data, predicting surge windows and forecasting monthly spend[cite: 94]. | `Python` `Streamlit` `Scikit-Learn` |
+| **🏨 Hotel Booking DWBI** | [cite_start]Designed a Star Schema Data Warehouse integrating multiple sources for OLAP queries and revenue optimization[cite: 96, 97]. | `SSIS` `SQL` `Power BI` `Data Warehousing` |
+| **🎨 StyleGAN Implementation** | [cite_start]Analyzed algorithmic gaps in StyleGAN research and engineered a custom Python implementation for deep learning image generation[cite: 100, 101]. | `Deep Learning` `Python` `Computer Vision` |
+
+---
+
+### 📊 **GitHub Statistics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshuE&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshuE&layout=compact&theme=radical" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshuE&theme=radical&no-frame=true&margin-w=15" />
+</div>
