@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
   <h1 align="center">Hi, I'm Harishalinee Elangovan!</h1>
   
   <a href="https://git.io/typing-svg">
