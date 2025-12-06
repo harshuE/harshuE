@@ -50,13 +50,3 @@ I am a final-year **Data Science Undergraduate** at SLIIT and a **Data Analytics
 
 ---
 
-### 📊 **GitHub Statistics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshuE&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshuE&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshuE&theme=radical&no-frame=true&margin-w=15" />
-</div>
