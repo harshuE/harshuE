@@ -3,7 +3,7 @@
   <h1 align="center">Hi, I'm Harishalinee Elangovan!</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Data+Science+Undergraduate;AI+%26+Data+Analytics+Intern;Cloud+Analytics+Enthusiast+(AWS%2FAzure);Machine+Learning+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2094F3&center=true&vCenter=true&width=600&lines=Data+Science+Undergraduate;Associate+Data+Analyst+%26+AI+Engineer;Cloud+%26+Data+Engineering+Enthusiast;Machine+Learning+%26+BI+Specialist" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,7 +11,7 @@
   <a href="mailto:harishalineeelangovan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/harishalinee-elangovan-a45677215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/harishalinee-elangovan-a45677215">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -19,11 +19,30 @@
 <br/>
 
 ### 👩‍💻 **About Me**
-I am a final-year **Data Science Undergraduate** at SLIIT and a **Data Analytics & AI Development Intern** at Agrithmics. I specialize in bridging the gap between raw data and strategic decision-making using Machine Learning, Cloud Computing, and Data Visualization.
+I am a final-year **Data Science Undergraduate at SLIIT** and currently working as an **Associate Data Analyst & AI Engineer at Agrithmics**. I specialize in transforming raw data into actionable insights through **Machine Learning, Data Engineering, and Business Intelligence solutions**.
 
-* 🔭 **Currently working on:** Automating reporting workflows and AI model optimization at Agrithmics.
-* 🌱 **Learning:** Advanced MLOps and Generative AI Agents.
-* 👯 **Looking to collaborate on:** End-to-End Data Engineering pipelines and Deep Learning research.
+* 🔭 **Currently working on:** AI model optimization, automated reporting workflows, and data pipeline improvements at Agrithmics  
+* 🌱 **Learning:** Advanced MLOps, Generative AI, and scalable cloud architectures  
+* 👯 **Looking to collaborate on:** Data Engineering pipelines, AI systems, and applied ML research  
+* 💡 **Strengths:** Analytical thinking, stakeholder communication, and problem-solving  
+
+---
+
+### 💼 **Professional Experience**
+- **Associate Data Analyst & AI Engineer – Agrithmics (Feb 2026 – Present)**  
+  - Led development of interactive dashboards for plantation performance  
+  - Optimized data pipelines for AI model training  
+  - Implemented automated reporting workflows for faster decision-making  
+
+- **Data Analytics & AI Development Intern – Agrithmics (Nov 2025 – Jan 2026)**  
+  - Designed dashboards and preprocessed large datasets for AI models  
+
+- **Data Analyst Intern – IYAP (Mar 2025 – Oct 2025)**  
+  - Used Monday.com for data management, dashboards, and reporting  
+  - Conducted analysis to support strategic planning  
+
+- **IT Operator – Crown Global International (2024 – 2025)**  
+  - Managed digital records and supported system operations  
 
 ---
 
@@ -31,10 +50,12 @@ I am a final-year **Data Science Undergraduate** at SLIIT and a **Data Analytics
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
-| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google-gemini&logoColor=white) |
-| **Cloud & Data** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-4A154B?style=flat&logo=snowflake&logoColor=white) |
-| **Web & Viz** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) |
+| **Languages** | Python, R, SQL, Java, C++ |
+| **AI & ML** | Scikit-Learn, TensorFlow, PyTorch, NLP (TF-IDF, Text Processing) |
+| **Cloud & Data** | AWS, Azure, Oracle, Data Warehousing, ETL, OLAP |
+| **BI & Tools** | Power BI, Monday.com, Advanced Excel |
+| **Web & Dev** | FastAPI, React |
+| **Other** | Git, Data Modeling, Stakeholder Management |
 
 ---
 
@@ -42,11 +63,35 @@ I am a final-year **Data Science Undergraduate** at SLIIT and a **Data Analytics
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 Tourism AI (Multi-Agent System)** | Engineered a multi-agent AI system using **Gemini API & LangGraph** to automate personalized travel itineraries with real-time logistics optimization. | `LangGraph` `Gemini API` `FastAPI` `React` |
-| **📊 Customer Churn Prediction** | Developed a predictive model using ML algorithms to identify customers at risk of churn, utilizing feature engineering for proactive retention strategies. | `Python` `Scikit-Learn` `Pandas` `ML` |
-| **🚕 Ride-Hailing AI Pipeline** | Built a full ML pipeline to mine booking data, predicting surge windows and forecasting monthly spend. | `Python` `Streamlit` `Scikit-Learn` |
-| **🏨 Hotel Booking DWBI** | Designed a Star Schema Data Warehouse integrating multiple sources for OLAP queries and revenue optimization. | `SSIS` `SQL` `Power BI` `Data Warehousing` |
-| **🎨 StyleGAN Implementation** | Analyzed algorithmic gaps in StyleGAN research and engineered a custom Python implementation for deep learning image generation. | `Deep Learning` `Python` `Computer Vision` |
+| 🤖 **Tourism AI (Multi-Agent System)** | Built a multi-agent AI system for personalized travel planning with real-time optimization | LangGraph, Gemini API, FastAPI, React |
+| 🚕 **Ride-Hailing AI Pipeline** | Developed ML pipeline to predict surge windows and spending patterns | Python, Scikit-Learn, Streamlit |
+| 📊 **Customer Churn Prediction** | Created ML model to identify at-risk customers using feature engineering | Python, Pandas, Scikit-Learn |
+| 🏨 **Hotel Booking Data Warehouse** | Designed star schema DW for analytics and revenue optimization | SQL, SSIS, Power BI |
+| 🎨 **StyleGAN Implementation** | Implemented and analyzed StyleGAN architectures for image generation | Python, Deep Learning |
 
 ---
 
+### 📜 **Certifications & Learning**
+- AWS Cloud Computing Certifications  
+- Microsoft Azure Certifications  
+- AI/ML Engineer (SLIIT)  
+- Oracle Database 19c  
+- Power BI & Python Data Analysis (LinkedIn Learning)  
+- Information Systems Auditing (Coursera)  
+
+---
+
+### 🌍 **Languages**
+- English  
+- Tamil  
+- Sinhala  
+
+---
+
+### 📫 **Let's Connect**
+- 📧 Email: harishalineeelangovan@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/harishalinee-elangovan-a45677215  
+
+---
+
+⭐ *Passionate about leveraging data and AI to solve real-world problems and drive intelligent decision-making.*
